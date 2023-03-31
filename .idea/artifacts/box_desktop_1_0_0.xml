@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="box-desktop-1.0.0">
+    <output-path>$PROJECT_DIR$/box/build/libs</output-path>
+    <root id="archive" name="box-desktop-1.0.0.jar">
+      <element id="module-output" name="TestMultiplatformLibrary.box.desktopMain" />
+    </root>
+  </artifact>
+</component>
