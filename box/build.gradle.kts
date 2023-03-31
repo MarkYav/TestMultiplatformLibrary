@@ -8,10 +8,10 @@ plugins {
 }
 
 group = "io.github.markyav"
-version = "1.0.0"
+version = "1.0.1"
 
 kotlin {
-    android()
+    android("android")
     jvm("desktop") {
         jvmToolchain(11)
     }

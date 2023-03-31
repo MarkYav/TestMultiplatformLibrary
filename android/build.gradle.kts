@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "io.github.markyav"
-version = "1.0.0"
+version = "1.0.1"
 
 repositories {
     jcenter()
@@ -23,7 +23,7 @@ android {
         minSdkVersion(24)
         targetSdkVersion(33)
         versionCode = 1
-        versionName = "1.0.0"
+        versionName = "1.0.1"
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
